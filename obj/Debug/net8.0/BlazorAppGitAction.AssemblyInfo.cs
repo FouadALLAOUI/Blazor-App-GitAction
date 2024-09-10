@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorAppGitAction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c63cb22239682503e9b2bde791298055b59fd6a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorAppGitAction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorAppGitAction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
